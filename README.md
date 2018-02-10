@@ -16,10 +16,10 @@ node bamazonCustomer.js
 
 Here's an image for the app when you run 
 and succeffully find the product and made the order .
-![Image1](images/image1.PNG)
+![Image1](./images/image1.png)
 
 The other image here when the product not found in the database .
-![Image2](images/image2.PNG)
+![Image2](./images/image2.png)
 
 
 
